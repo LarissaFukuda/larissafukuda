@@ -1,41 +1,30 @@
-# Olá, eu sou a Larissa Fukuda 👋
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false)
+# Larissa Fukuda🎀
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo (2025–2027)
-🔬 Pesquisadora de Iniciação Científica — LLMs aplicados ao ensino de Medicina, em parceria com a Faculdade de Medicina de Jundiaí
-🚀 Em busca da minha primeira oportunidade profissional em tecnologia
-
----
-
-### 🧠 Sobre mim
-
-Curso ADS na FATEC SP e atuo como pesquisadora voluntária de iniciação científica, estudando o uso de modelos de linguagem (LLMs) no ensino de ginecologia e medicina. Gosto de unir programação, dados e IA aplicada a problemas reais. Estou sempre aprendendo algo novo e buscando meu primeiro passo no mercado de tecnologia.
+###  About Me
+I'm studying Systems Analysis and Development at FATEC SP and working as a volunteer research assistant, studying the use of large language models (LLMs) in gynecology and medical education. I'm interested in programming, cybersecurity, data, and applied AI to solve real problems. Always learning something new and looking for my first step into the tech industry.
 
 ---
 
-### 🛠️ Tecnologias
+### My Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Stats GitHub🖤
 
-<!-- Troque SEUUSUARIO pelo seu username do GitHub nos dois links abaixo -->
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default)
+![Status GitHub](https://github-stats-extended.vercel.app/api?username=larissafukuda&include_all_commits=true&theme=monokai)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=larissafukuda&layout=compact&langs_count=8&theme=monokai)
 
 ---
 
-### 🔗 Conecte-se comigo
+### Languages
 
-<!-- Adicione aqui seus links: LinkedIn, e-mail, portfólio, etc -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+🇧🇷 Portuguese — Native
+
+🇺🇸 English — Advanced
 
 ---
 
-⭐️ Se algum dos meus projetos te ajudou, deixe uma estrela!
+⭐️ If any of my projects helped you, feel free to leave a star! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
